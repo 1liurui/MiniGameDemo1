@@ -1,5 +1,4 @@
 # MiniGameDemo1
-压缩包内为可执行程序
 玩法介绍：
 玩家操作游戏人物躲避机关收集关卡中的草药，学习草药的介绍，在最后关卡中利用学习的知识完成对草药的分类并合成医药古书。
 ![94aecbc4254426115bda2d8e5c07fae](https://github.com/1liurui/MiniGameDemo1/assets/112407713/e17d783c-30b1-4a55-a151-896892f26773)
